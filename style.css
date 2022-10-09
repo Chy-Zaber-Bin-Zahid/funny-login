@@ -1,0 +1,42 @@
+.whole{
+  margin: 12rem auto;
+  width: 15%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+h1, 
+input{
+  margin: 0;
+}
+
+.main{
+  padding: 1em 0;
+  border: 1px solid blueviolet;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.space{
+  margin: .3rem 0;
+}
+
+input{
+  width: 96%; 
+}
+
+a{
+  text-decoration: none;
+}
+
+.bottom{
+  text-align: left;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+#btn-move{
+  text-align: center;
+}
+
